@@ -1,5 +1,6 @@
-# Forum
-### This is a dynamic web application built using Django framework in Python.
+# Django Forum Application
+### Welcome to the Django Forum Application! 
+This web application is built using Python and the Django framework. It serves as a forum where users can engage in discussions, share images, and interact with each other through posts, comments, and likes.
 
 ## Prerequisites
 Before you begin, ensure you have the following tools installed on your system:
